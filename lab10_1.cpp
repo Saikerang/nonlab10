@@ -26,6 +26,7 @@ int main(){
 				cout << "Wrong input. Please input again.\n";
 				i--;
 			}
+			
 	} 
 	while(true);
 	
